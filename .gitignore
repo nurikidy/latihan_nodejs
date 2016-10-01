@@ -1,0 +1,4 @@
+/tslack
+/lat-node/node_modules
+/lat-express/node_modules
+/lat-express/*/node_modules

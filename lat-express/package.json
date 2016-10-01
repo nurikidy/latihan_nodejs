@@ -1,0 +1,14 @@
+{
+  "name": "lat-express",
+  "version": "1.0.0",
+  "description": "latihan express.js kelas nodejs @moazspacejkt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nuri Abidin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

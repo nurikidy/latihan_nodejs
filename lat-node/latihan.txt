@@ -1,0 +1,16 @@
+jika diketikkan nama propinsi, response berupa ibukota propinsi
+    eg: Ibukota provinsi X adalah Y
+
+buat modul baru yang akan memetakan propinsi dengan ibukotanya
+
+
+
+
+
+
+
+buat agar foem bisa kirim email
+gunakan package nodemailer (npmjs.com/package/nodemailer)
+
+
+kalau sudah berhasil jalan, verify program dengan mengirimkan email ke didit@froyo.co.id

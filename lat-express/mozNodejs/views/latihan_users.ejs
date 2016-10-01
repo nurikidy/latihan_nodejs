@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>
+        using EJS forEach
+    </p>
+    <ul>
+    <% pahlawan.forEach(function(pahlawan){ %>
+    <li><%= pahlawan %></li>
+    <% }); %>
+    </ul>
+
+    <p> using for loop</p>
+    <ul>
+    <% for(var i=0; i<pahlawan.length; i++) {%>
+   <li><%= pahlawan[i] %></li>
+   <% } %>
+    </ul>
+    <a href="/">back to index</a>
+  </body>
+</html>

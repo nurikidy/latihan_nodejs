@@ -9,6 +9,6 @@
   "author": "Nuri Abidin",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.16.0"
   }
 }
